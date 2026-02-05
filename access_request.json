@@ -1,6 +1,6 @@
 {
-  "user_name": "Ravi",
-  "role": "family",
-  "privacy_policy_accepted": true,
-  "approved_by_admin": true
+  "user_name": "Unknown",
+  "role": "stranger",
+  "privacy_policy_accepted": false,
+  "approved_by_admin": false
 }
